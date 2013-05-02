@@ -3,7 +3,6 @@
 
 /* mixins, variables, etc. */
 
-$purple: #7a43b6;
 
 @mixin box_sizing {
   -moz-box-sizing: border-box; 
@@ -65,8 +64,8 @@ p {
   float: left;
   margin-right: 10px;
   font-size: 1.7em;
-  color: #fff;
-  text-transform: uppercase;
+  color: #151515;
+ 
   letter-spacing: -1px;
   padding-top: 9px;
   font-weight: bold;
@@ -74,7 +73,7 @@ p {
 }
 
 #logo:hover {
-  color: #fff;
+  color: #6E6E6E;
   text-decoration: none;
 }
 
